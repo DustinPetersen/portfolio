@@ -102,7 +102,3 @@ You could also host directly with Netlify by linking your own repository.
 For more information, read [hosting on Netlify](https://create-react-app.dev/docs/deployment/#netlify).
 
 
-
----
-# portfolio
-# portfolio
