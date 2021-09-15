@@ -33,9 +33,13 @@ const Contact = () => {
                     {social.twitter && <a title="Visit Twitter profile" rel="noopener noreferrer" target="_blank" href={social.twitter}><i className="fab fa-twitter"></i></a>}
                     {social.instagram && <a title="Visit Instagram profile" rel="noopener noreferrer" target="_blank" href={social.instagram}><i className="fab fa-instagram"></i></a>}
                     {social.github && <a title="Visit Github profile" rel="noopener noreferrer" target="_blank" href={social.github}><i className="fab fa-github"></i></a>}<br/>
+
+                </div>       
+                <p><strong>Download Resume</strong></p>       
+                {social.resume && <a title="Download Resume" href={social.resume} download><i className="fas fa-download"></i></a>}
+  
                 </div>
-                    {social.resume && <a title="Download Resume" href={social.resume} download><i className="fas fa-download"></i></a>}
-                </div>
+                
                 </div>
             </div>
             </div>

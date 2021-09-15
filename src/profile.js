@@ -100,9 +100,9 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
-    name: "Project 3",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Google Maps",
+    skills: ["HTML, CSS, JS, Vue, Firebase, GoogleMaps API"],
+    url: "#",
   },
   {
     // Add image in './styles/images.css' in #project4
@@ -116,14 +116,14 @@ const projects = [
     id: "project5",
     name: "Project 5",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "#",
   },
   {
     // Add image in './styles/images.css' in #project6
     id: "project6",
     name: "Project 6",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "#",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
@@ -134,20 +134,20 @@ const miscellaneous = [
   {
     // Add image in './styles/images.css' in #misc1
     id: "misc1",
-    name: "Miscellaneous 1",
-    url: "https://github.com/kaustubhai",
+    name: "Random JavaScript Things",
+    url: "https://github.com/DustinPetersen/50-Projects",
   },
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
     name: "Miscellaneous 2",
-    url: "https://github.com/kaustubhai",
+    url: "#",
   },
   {
     // Add image in './styles/images.css' in #misc3
     id: "misc3",
     name: "Miscellaneous 3",
-    url: "https://github.com/kaustubhai",
+    url: "#",
   },
 ];
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
