@@ -76,6 +76,11 @@ const skillsBar = [
     // svg: '',
     faClass: "fab fa-aws",
   },
+  {
+    name: "Windows",
+    // svg: '',
+    faClass: "fab fa-windows",
+  },
  
 ];
 // Edit your projects, its name, your skills used to make it, and the url.
@@ -140,14 +145,14 @@ const miscellaneous = [
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
-    name: "Miscellaneous 2",
-    url: "#",
+    name: "Usefull VBA Scripts",
+    url: "https://github.com/DustinPetersen/VBA-Scripts",
   },
   {
     // Add image in './styles/images.css' in #misc3
     id: "misc3",
-    name: "Miscellaneous 3",
-    url: "#",
+    name: "SPO PowerShell Scripts",
+    url: "https://github.com/DustinPetersen/PowerShell-SPO-Scripts",
   },
 ];
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
@@ -166,7 +171,7 @@ const social = {
   github: "https://github.com/dustinpetersen",
   //facebook: "https://facebook.com",
    twitter: "https://twitter.com/kjeld264",
-  instagram: "https://instagram.com/stoneyemoji",
+  //instagram: "https://instagram.com/stoneyemoji",
   linkedin: "https://linkedin.com/in/dustinpetersen",
   resume: "https://novoresume.com/",
 };
