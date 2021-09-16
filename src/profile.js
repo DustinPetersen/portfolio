@@ -13,7 +13,7 @@ const header = {
 };
 const background = {
   // Options: Snow or Particle
-  type: "Particle",
+  type: "snow",
 };
 // Write a para about yourself here
 // To update your image, go to './styles/images.css'
